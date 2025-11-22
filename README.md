@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on  <br>Building performant full-stack applications with **Next.js** and **NestJS**, and developing scalable RESTful backends using **Laravel** for mobile and web platforms.<br><br>👯 I’m looking to collaborate on  <br>Production-grade open-source projects, developer tools, or ventures that prioritize clean architecture, user-centric design, and measurable impact.<br><br>🤝 I’m looking for help with  <br>Optimizing system architecture for scale, implementing robust testing strategies, and advancing DevOps practices in cloud-native environments.<br><br>🌱 I’m currently learning  <br>Cloud infrastructure (AWS, Cloudflare), advanced TypeScript patterns, and techniques to embed SEO and performance best practices directly into application codebases.<br><br>💬 Ask me about  <br>Full-stack development (Next.js / NestJS / Laravel), API design, technical SEO, or integrating product strategy with engineering execution.<br><br>⚡ Fun fact  <br>My background in digital marketing gives me a unique lens: I build software not just to function—but to be discovered, used, and valued.
 
 
